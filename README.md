@@ -8,11 +8,5 @@
   
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: mateus.a.freitas2830@gmail.com  
-  
-- My websites :<br>
-  https://mateuz014.github.io/projeto-cordel-cursoemvideo/<br>
-  https://mateuz014.github.io/projeto-android-cursoemvideo/<br>
-  https://mateuz014.github.io/Calculator/
- 
 
 
