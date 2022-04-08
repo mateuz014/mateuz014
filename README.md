@@ -6,8 +6,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuz014&layout=compact&langs_count=7&theme=dark"/>
 </div>  
 
-- https://mateuz014.github.io/portofolio-mateus-de-almeida/  
+
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: mateus.a.freitas2830@gmail.com  
+- https://mateuz014.github.io/portofolio-mateus-de-almeida/  
 
 
