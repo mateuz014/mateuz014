@@ -9,6 +9,6 @@
 
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: mateus.a.freitas2830@gmail.com  
-- https://mateuz014.github.io/portofolio-mateus-de-almeida/  
+
 
 
